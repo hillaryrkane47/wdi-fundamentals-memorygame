@@ -45,6 +45,7 @@ h1, h2, p, h4 {
 	display: inline-block;
 	text-align: left;
 	float: left;
+	padding-left: 50px;
 }
 
 .card {
@@ -73,3 +74,7 @@ footer p {
 }
 
 
+img {
+	height: 200px;
+	width: 150px;
+}
